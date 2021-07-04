@@ -1,0 +1,28 @@
+.input-body{
+    border:none;
+    outline:none;
+    height:50px;
+    width:100%;
+    box-shadow: inset 1px 1px 10px #c0c0c0;
+    border-radius: 100px;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form-body{
+    background:#e2e2e2a1;
+    padding:25px;
+    border-radius: 20px;
+}
+.search-btn{
+    margin-top: 25px;
+    background:tomato;
+    color:white;
+    font-weight: bold;
+    box-shadow: 1px 1px 10px #c0c0c0;
+}
+.input-title{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+}

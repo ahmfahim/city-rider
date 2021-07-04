@@ -1,0 +1,66 @@
+.other-option p{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 1px solid gray;
+    margin-left: 200px;
+    margin-right:200px;
+}
+.login-input{
+    outline:none;
+    width: 300px;
+    height:45px;
+    margin-top:20px;
+    border:none;
+    border-bottom: 1px solid #cecece;
+    font-family: 'Courier New', Courier, monospace;
+    padding:10px;
+}
+.sign-btn{
+    font-weight: bold;
+    border-radius: 100px;
+    font-size: 20px;
+    border:none;
+    color: #fff;
+    box-shadow: 1px 1px 10px gray;
+    background:tomato;
+}
+.formControl{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+}
+.formControl span{
+    color:tomato;
+    font-weight: bold;
+}
+.forgot-btn{
+    color: tomato;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.forgot-body{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.s-icon{
+    font-size: 25px;
+}
+.signInGoogleBtn{
+    box-shadow: 1px 1px 10px gray;
+    padding:10px;
+    margin-top:20px;
+    border-radius: 100px;
+    border:none;
+}
+.signInFbBtn{
+    box-shadow: 1px 1px 10px gray;
+    padding:10px;
+    margin-top:20px;
+    border-radius: 100px;
+    border:none;
+    color:blue;
+}
+.display-error{
+    text-align:center;
+    font-size: 18px;
+}
